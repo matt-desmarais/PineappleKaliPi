@@ -7,5 +7,5 @@ https://code.google.com/p/simple-ducky-payload-generator/
 Boot wifi pineapple, then boot raspberry pi
 
 
-[image1](http://i.imgur.com/SN7xSLt.jpg "Setup")
-[image2](http://i.imgur.com/36Y3xRr.jpg "Screen")
+![image1](http://i.imgur.com/SN7xSLt.jpg "Setup")
+![image2](http://i.imgur.com/36Y3xRr.jpg "Screen")
